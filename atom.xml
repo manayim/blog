@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
+  <title>二条</title>
+  <subtitle>幸福就是身体健康和记性差~~~</subtitle>
   <link href="/test/atom.xml" rel="self"/>
   
   <link href="https://manaychen.github.io/test/"/>
@@ -9,7 +9,7 @@
   <id>https://manaychen.github.io/test/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Manay</name>
     
   </author>
   
