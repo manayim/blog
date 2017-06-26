@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>幸福就是身体健康和记性差~~~</title>
-  <subtitle>生活最迷人的是你可以不断地找到新的生活空间，让自己变得更丰富有趣。人生并不是一场物质的盛宴，而是一次修炼自我的旅程，你会遇到很多有意思的人事物，与他们碰撞的过程中，你会被重新雕塑。</subtitle>
+  <title>生活最迷人的是你可以不断地找到新的生活空间，让自己变得更丰富有趣。</title>
+  <subtitle>人生并不是一场物质的盛宴，而是一次修炼自我的旅程，你会遇到很多有意思的人事物，与他们碰撞的过程中，你会被重新雕塑。</subtitle>
   <link href="/blog/atom.xml" rel="self"/>
   
   <link href="https://manayim.github.io/blog/"/>
