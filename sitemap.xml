@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://manayim.github.io/blog/2017/05/31/test/</loc>
+    
+    <lastmod>2017-06-27T03:42:38.155Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://manayim.github.io/blog/2017/05/31/My-New-Post/</loc>
+    
+    <lastmod>2017-06-27T03:42:25.111Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://manayim.github.io/blog/2017/05/31/hello-world/</loc>
+    
+    <lastmod>2017-06-27T03:42:12.086Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://manayim.github.io/blog/categories/index.html</loc>
     
     <lastmod>2017-06-26T08:03:59.036Z</lastmod>
@@ -9,30 +30,9 @@
   </url>
   
   <url>
-    <loc>https://manayim.github.io/blog/2017/05/31/hello-world/</loc>
-    
-    <lastmod>2017-06-26T08:01:08.106Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://manayim.github.io/blog/2017/05/31/My-New-Post/</loc>
-    
-    <lastmod>2017-06-26T08:00:58.913Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://manayim.github.io/blog/tags/index.html</loc>
     
     <lastmod>2017-06-26T07:22:12.263Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://manayim.github.io/blog/2017/05/31/test/</loc>
-    
-    <lastmod>2017-05-31T06:39:10.377Z</lastmod>
     
   </url>
   

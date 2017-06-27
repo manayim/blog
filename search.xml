@@ -3,22 +3,16 @@
   
     
     <entry>
-      <title><![CDATA[My New Post]]></title>
-      <url>/blog/2017/05/31/My-New-Post/</url>
+      <title><![CDATA[Hello World]]></title>
+      <url>/blog/2017/05/31/hello-world/</url>
       <content type="html"></content>
       
-        
-        <tags>
-            
-            <tag> 人生并不是一场物质的盛宴，而是一次修炼自我的旅程，你会遇到很多有意思的人事物，与他们碰撞的过程中，你会被重新雕塑。 </tag>
-            
-        </tags>
         
     </entry>
     
     <entry>
-      <title><![CDATA[Hello World]]></title>
-      <url>/blog/2017/05/31/hello-world/</url>
+      <title><![CDATA[My New Post]]></title>
+      <url>/blog/2017/05/31/My-New-Post/</url>
       <content type="html"></content>
       
         
