@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://manayim.github.io/blog/2017/07/12/%E6%AC%A2%E8%BF%8E%E4%BD%BF%E7%94%A8CSDN-markdown%E7%BC%96%E8%BE%91%E5%99%A8/</loc>
+    <loc>https://manayim.github.io/blog/2017/07/12/index/</loc>
     
-    <lastmod>2017-07-12T07:17:43.394Z</lastmod>
+    <lastmod>2017-07-12T08:25:18.251Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://manayim.github.io/blog/about/index.html</loc>
+    
+    <lastmod>2017-07-12T08:15:13.390Z</lastmod>
     
   </url>
   
